@@ -1,0 +1,19 @@
+h1 {
+    text-align: center;
+}
+
+h1 span {
+color: #09c;
+font-size: 80px;
+}
+
+.product {
+width: 32.5%;
+display: inline-block;
+text-align: center;
+}
+
+.product img {
+width: 100%;
+}
+
